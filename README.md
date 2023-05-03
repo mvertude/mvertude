@@ -1,4 +1,9 @@
-### Hi there 👋
+# Maveric Dalit Vertudez
+
+``` Software Engineer ```
+
+Hello there! I am a recent Computer Science graduate from UCSD looking to start my career in software engineering. 
+
 
 <!--
 **mvertude/mvertude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
