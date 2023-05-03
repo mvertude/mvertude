@@ -1,8 +1,8 @@
-# Maveric Dalit Vertudez
+# hi, i'm mav
 
 ``` Software Engineer ```
 
-Hello there! I am a recent Computer Science graduate from UCSD looking to start my career in software engineering. 
+Hello there! I am a recent computer science graduate from UCSD looking to start my career in software engineering. 
 
 
 <!--
